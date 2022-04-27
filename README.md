@@ -10,7 +10,7 @@
 ### 关注公众号【Share云界】
 不定期会分享一些实用资源
 <div align=center>
-<img src="https://sharecloudland.oss-cn-beijing.aliyuncs.com/Shell_20220303-225658-513.png" width="500"/>
+<img src="https://sharecloudland.oss-cn-beijing.aliyuncs.com/Shell_20220303-225658-513.png" width="600"/>
 </div>
 
 # 网站密码
@@ -19,5 +19,5 @@
 网站设置密码是防止某些恶意行为，密码会定期修改，你可以通过在公众号后台回复：“**验证码**”获取。
 另外如果觉得有帮到你可以可以通过扫描下方二维码，捐赠一杯咖啡，感谢！❤️
 <div align=center>
-<img src="https://sharecloudland.oss-cn-beijing.aliyuncs.com/mm_reward_qrcode_1651064864450.png" width="400"/>
+<img src="https://sharecloudland.oss-cn-beijing.aliyuncs.com/mm_reward_qrcode_1651064864450.png" width="300"/>
 </div>
